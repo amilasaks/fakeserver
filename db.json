@@ -1,38 +1,38 @@
 {
     "blogs":[
        {
-      "title": "My New journey",
-      "body": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere",
-      "author": "Mario",
+      "title": "3 Posture exercises for swimmers",
+      "body": "“I love playing around with body movements and using bits of equipment to help add assistance or resistance. As a swimmer, my body movement can feel different on land compared to the pool. Finding ways to challenge my body and support my posture has been a huge passion for me. Whilst technically it’s not I can still work on improving technique, it’s about listening to my body and working with how it feels on that day. Here are some of the posture exercises for swimmers from today.",
+      "author": "Hannah Miley",
       "id": 1,
-      "img": "https://picsum.photos/id/1/600",
+      "img": "https://images.pexels.com/photos/1263348/pexels-photo-1263348.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "views":4,
       "userImg":"https://randomuser.me/api/portraits/men/81.jpg"
     },
     {
-      "title": "Welcome Party",
-      "body": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere",
-      "author": "Mario",
+      "title": "10 drills all budding backstroke swimmers should try",
+      "body": "In actual fact there is nothing easier than swimming on your back and the most popular warm-down exercise is the double arm backstroke: rotating both your arms backwards at the same time with a breaststroke leg kick.It is true that we cannot control our hand movements during the power phase, because they are out of our visual field but, seeing as the mouth is always out of the water, we can breathe however we like.",
+      "author": "Arena Johns",
       "id": 2,
-      "img": "https://picsum.photos/id/4/600",
+      "img": "https://media.istockphoto.com/photos/female-swimmer-at-the-swimming-pool-picture-id465383082?k=6&m=465383082&s=612x612&w=0&h=_LHGJtV9UdvUyBc7PVk1VNpFklrN_2yQ8cK-QSOJkG4=",
       "views":10,
       "userImg":"https://randomuser.me/api/portraits/men/82.jpg"
     },
     {
-      "title": "Mario Worlds",
-      "body": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere",
-      "author": "Luigi",
+      "title": "10 drills to improve your freestyle",
+      "body": "Swimming is only ranked 44th in terms of difficulty in the ESPN (a US TV channel that broadcasts sports programs only) world rankings. A study of the parameters on which these rankings are based (coordination, stamina, flexibility, strength, endurance, speed, agility and analytical attitude) shows that swimming is second only to gymnastics in terms of coordination. Coordination means implementing a motor scheme that your brain has just designed.",
+      "author": "Whitney Bolonne",
       "id": 3,
-      "img": "https://picsum.photos/id/11/600",
+      "img": "https://d1s9j44aio5gjs.cloudfront.net/2016/07/The_Benefits_of_Swimming.jpg",
       "views":30,
       "userImg":"https://randomuser.me/api/portraits/men/83.jpg"
     },
     {
-      "title": "Yoshis Life",
-      "body": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere",
-      "author": "Yoshi",
+      "title": "Top 10 exercises to improve your breaststroke",
+      "body": "After all, a primitive form of breaststroke was the very first movement performed by a human being to move forward through the water. This suggests it might be simple but it is not. The fact that it comes naturally does not mean that doing it the right way is by any means easy technically speaking.It takes an incredible amount of energy to swim the breaststroke (approximately 500 kcal/h for women and 700 kcal/h for men), so it is extremely important to perfect your technique to make your swim stroke as economical as possible.",
+      "author": "Nickolas Jonas",
       "id": 4,
-      "img": "https://picsum.photos/id/15/600",
+      "img": "https://cdn.britannica.com/66/162466-131-47ADB66F/Man-butterfly-stroke-pool.jpg",
       "views":20,
       "userImg":"https://randomuser.me/api/portraits/men/84.jpg"
     }
