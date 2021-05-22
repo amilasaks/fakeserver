@@ -7,16 +7,18 @@
       "id": 1,
       "img": "https://images.pexels.com/photos/1263348/pexels-photo-1263348.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "views":4,
-      "userImg":"https://randomuser.me/api/portraits/men/81.jpg"
+      "userImg":"https://randomuser.me/api/portraits/men/81.jpg",
+      "category":"Sports"
     },
     {
-      "title": "10 drills all budding backstroke swimmers should try",
-      "body": "In actual fact there is nothing easier than swimming on your back and the most popular warm-down exercise is the double arm backstroke: rotating both your arms backwards at the same time with a breaststroke leg kick.It is true that we cannot control our hand movements during the power phase, because they are out of our visual field but, seeing as the mouth is always out of the water, we can breathe however we like.",
+      "title": "5 predictions for the future of e-commerce",
+      "body": "We’ve had a close eye on the rate of e-commerce penetration globally ever since. Despite e-commerce growth skyrocketing over the past year, the reality is the U.S. has still only reached an e-commerce penetration rate of around 17%. During the last 18 months, we’ve closed the gap to South Korea and China’s e-commerce penetration of more than 25%, but there is still much progress to be made.",
       "author": "Arena Johns",
       "id": 2,
-      "img": "https://media.istockphoto.com/photos/female-swimmer-at-the-swimming-pool-picture-id465383082?k=6&m=465383082&s=612x612&w=0&h=_LHGJtV9UdvUyBc7PVk1VNpFklrN_2yQ8cK-QSOJkG4=",
+      "img": "https://blog.3dcart.com/hubfs/iStock-1051616786.jpg",
       "views":10,
-      "userImg":"https://randomuser.me/api/portraits/men/82.jpg"
+      "userImg":"https://randomuser.me/api/portraits/men/82.jpg",
+      "category":"Technology"
     },
     {
       "title": "10 drills to improve your freestyle",
@@ -25,17 +27,61 @@
       "id": 3,
       "img": "https://d1s9j44aio5gjs.cloudfront.net/2016/07/The_Benefits_of_Swimming.jpg",
       "views":30,
-      "userImg":"https://randomuser.me/api/portraits/men/83.jpg"
+      "userImg":"https://randomuser.me/api/portraits/men/83.jpg",
+      "category":"Sports"
     },
+    {
+      "title": "3 ways to tighten loose skin after weight loss",
+      "body": "Shedding pounds takes dedication, patience and persistence — especially if you’re going about it in a safe and sustainable way. That’s why losing even 1 pound is a success. However, losing 5–10% of your total body weight is likely to bring big health benefits, such as lower blood cholesterol, blood sugar and an improvement in overall blood pressure levels. Depending on how much weight you lose, there could be one not-so-pleasant result: loose skin. When a person loses a significant amount of weight, they can end up with loose skin either in their stomach or in other parts of their body, like their arms, chest or thighs. This is super common, says Dr. Caroline A. Andrew, a weight-management specialist at the Hospital for Special Surgery.",
+      "author": "Emily Abbate",
+      "id": 4,
+      "img": "https://content.active.com/Assets/Active.com+Content+Site+Digital+Assets/Fitness/Galleries/10+Fitness+Tips/Muscle-confusion-is-the-only-way-to-go..jpg",
+      "views":70,
+      "userImg":"https://randomuser.me/api/portraits/men/83.jpg",
+      "category":"Fitness"
+    },
+        
     {
       "title": "Top 10 exercises to improve your breaststroke",
       "body": "After all, a primitive form of breaststroke was the very first movement performed by a human being to move forward through the water. This suggests it might be simple but it is not. The fact that it comes naturally does not mean that doing it the right way is by any means easy technically speaking.It takes an incredible amount of energy to swim the breaststroke (approximately 500 kcal/h for women and 700 kcal/h for men), so it is extremely important to perfect your technique to make your swim stroke as economical as possible.",
       "author": "Nickolas Jonas",
-      "id": 4,
+      "id": 5,
       "img": "https://cdn.britannica.com/66/162466-131-47ADB66F/Man-butterfly-stroke-pool.jpg",
-      "views":20,
-      "userImg":"https://randomuser.me/api/portraits/men/84.jpg"
+      "views":40,
+      "userImg":"https://randomuser.me/api/portraits/men/84.jpg",
+      "category":"Sports"
+    },
+    {
+      "title": "What is collagen and why do we need it?",
+      "body": "Collagen is a form of protein that is found in almost every single cell in the human body, in fact it makes up approximately 25% of our total body mass and 75% of our skin, so to say it is important is an understatement. It’s in our tendons, joints, ligaments, skin, muscles and internal organs and in a sense it is the glue that holds us all together. The good news is the human body is super clever and can naturally produce its own store of collagen by breaking down dietary protein and turning it into all important amino acids (the building blocks of collagen). The bad news, however, is that as we age the body finds it harder to do this and so our collagen production starts to decrease and with it comes those dreaded signs of aging.",
+      "author": "Franklin Gomez",
+      "id": 6,
+      "img": "https://bodypro.ca/wp-content/uploads/2020/07/bp-beauty-copy.jpg",
+      "views":50,
+      "userImg":"https://randomuser.me/api/portraits/men/84.jpg",
+      "category":"Beauty"
+    },
+    {
+      "title": "Natural deodorants: are they better for you?",
+      "body": "You might have noticed a lot of talk in the health & beauty industry about natural deodorants. More and more brands are coming out with their offerings, presenting these products as better alternatives to traditional deodorants and antiperspirants. The key selling point of natural deodorants is that they only contain natural ingredients, cutting out any chemicals or potentially harmful substances. Hold on a second, are you saying there are dangerous things in regular deodorants? Well, the main concern is aluminium, which is a metal that is found in a lot of deodorant products. More accurately, it is found in antiperspirant deodorants, as it’s the main ingredient to help prevent people from sweating. So, natural deodorants get rid of this, seemingly making them a better alternative for your overall wellbeing.",
+      "author": "Geffry Walters",
+      "id": 7,
+      "img": "https://www.tu13dekh.com/wp-content/uploads/2019/06/7-Best-Body-Sprays-for-Men.jpg",
+      "views":90,
+      "userImg":"https://randomuser.me/api/portraits/men/84.jpg",
+      "category":"Beauty"
+    },
+    {
+      "title": "Types of shuttles in badminton",
+      "body": " There is no doubt that these shuttles are much more durable than feather ones, typically a single shuttle can last for a whole match( 3 sets) with intense rallies. Also, you don’t have to worry about the shuttle breakage like the feather ones so even if you mishit a shot it won’t be affecting the flight of these birdies. But this does not mean that it can’t get damaged not during rallies. Even though these are more durable but their skirt portion is not that rigid compared to its compatriot it means if you applied too much pressure on that portion chances of it getting damaged are high.Always handle these shuttle by holding it from cork and not the nylon part",
+      "author": "Ryan Martinz",
+      "id": 8,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Badminton-1428046.jpg",
+      "views":120,
+      "userImg":"https://randomuser.me/api/portraits/men/84.jpg",
+      "category":"Sports"
     }
+                
     ],
     "users":[
         {
